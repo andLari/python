@@ -18,4 +18,5 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 2  | guidos-gorgeous-lasagna|✔️| Name Assignment (variables and constants), Functions (the def keyword and the return keyword), Comments, and Docstrings. | [Solution](https://github.com/andLari/python_exercism/blob/main/guidos-gorgeous-lasagna/lasagna.py) |
 | 3  |Ghost Gobble Arcade Game|✔️| Bools (True, False, and, or, not)| [Solution](https://github.com/andLari/python_exercism/blob/main/ghost-gobble-arcade-game/arcade_game.py) |
 | 4  |Currency Exchange|✔️| Numbers (int, float)| [Solution](https://github.com/andLari/python_exercism/blob/main/currency-exchange/exchange.py) |
-| 5  |Meltdown Mitigation|❌| If, Else| [Solution](https://github.com/andLari/python_exercism/blob/main/currency-exchange/exchange.py) |
+| 5  |Meltdown Mitigation|✔️| If, Else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/meltdown-mitigation/conditionals.py) |
+| 6  |Black Jack|❌| >, <, =, is, in| [Solution](https://github.com/andLari/python_exercism/blob/main/currency-exchange/exchange.py) |
