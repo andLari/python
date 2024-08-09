@@ -22,5 +22,5 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 6  |Black Jack|✔️| >, <, =, is, in| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/black-jack/black_jack.py) |
 | 7  |Little Sister's Vocabulary|✔️| strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/little-sisters-vocab/strings.py) |
 | 8  |Bob|✔️| strings, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/bob/bob.py) |
-| 9  |Raindrops|❌| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/currency-exchange/exchange.py) |
+| 9  |Raindrops|✔️| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/raindrops/raindrops.py) |
 | 10  |Darts|❌| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/currency-exchange/exchange.py) |
