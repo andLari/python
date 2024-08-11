@@ -25,7 +25,7 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 9  |Raindrops|✔️| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/raindrops/raindrops.py) |
 | 10  |Darts|✔️| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/darts/darts.py) |
 | 11  |Little Sister's Essay|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/little-sisters-essay/string_methods.py) |
-| 12  |Card Games|❌| Lists| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/darts/darts.py) |
+| 12  |Card Games|✔️| Lists| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/card-games/lists.py) |
 | 13  |Perfect Numbers|❌| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/darts/darts.py) |
 | 14  |Reverse String|❌| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/darts/darts.py) |
 | 15  |Pangram|❌| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/darts/darts.py) |
