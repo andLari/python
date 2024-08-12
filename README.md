@@ -29,7 +29,7 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 13  |Perfect Numbers|✔️| /, *, math operations, if, else| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/perfect-numbers/perfect_numbers.py) |
 | 14  |Reverse String|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/reverse-string/reverse_string.py) |
 | 15  |Pangram|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/pangram/pangram.py) |
-| 16  |Chaitana's Colossal Coaster|❌| Lists| [Solution]() |
+| 16  |Chaitana's Colossal Coaster|✔️| Lists| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/chaitanas-colossal-coaster/list_methods.py) |
 | 17  |Isogram|❌| Strings| [Solution]() |
 | 18  |ISBN Verifier|❌| Numbers| [Solution]() |
 | 19  |Rotational Cipher|❌| Strings| [Solution]() |
