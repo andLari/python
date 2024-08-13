@@ -30,7 +30,7 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 14  |Reverse String|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/reverse-string/reverse_string.py) |
 | 15  |Pangram|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/pangram/pangram.py) |
 | 16  |Chaitana's Colossal Coaster|✔️| Lists| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/chaitanas-colossal-coaster/list_methods.py) |
-| 17  |Isogram|❌| Strings| [Solution]() |
+| 17  |Isogram|✔️| Strings, chars| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/isogram) |
 | 18  |ISBN Verifier|❌| Numbers| [Solution]() |
 | 19  |Rotational Cipher|❌| Strings| [Solution]() |
 | 20  |Resistor Color|❌| Strings, Numbers| [Solution]() |
