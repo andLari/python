@@ -32,5 +32,6 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 16  |Chaitana's Colossal Coaster|✔️| Lists| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/chaitanas-colossal-coaster/list_methods.py) |
 | 17  |Isogram|✔️| Strings, chars| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/isogram) |
 | 18  |ISBN Verifier|✔️| Numbers| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/isbn-verifier/isbn_verifier.py) |
-| 19  |Rotational Cipher|❌| Strings| [Solution]() |
-| 20  |Resistor Color|❌| Strings, Numbers| [Solution]() |
+| 19  |Rotational Cipher|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/rotational-cipher/rotational_cipher.py) |
+| 20  |Making the Grade|❌| For, While| [Solution]() |
+| 21  |Resistor Color|❌| Strings, Numbers| [Solution]() |
