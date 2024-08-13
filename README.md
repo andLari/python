@@ -33,5 +33,5 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 17  |Isogram|✔️| Strings, chars| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/isogram) |
 | 18  |ISBN Verifier|✔️| Numbers| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/isbn-verifier/isbn_verifier.py) |
 | 19  |Rotational Cipher|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/rotational-cipher/rotational_cipher.py) |
-| 20  |Making the Grade|❌| For, While| [Solution]() |
+| 20  |Making the Grade|✔️| Loops (For, While)| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/making-the-grade) |
 | 21  |Resistor Color|❌| Strings, Numbers| [Solution]() |
