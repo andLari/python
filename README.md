@@ -35,7 +35,7 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 19  |Rotational Cipher|✔️| Strings| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/rotational-cipher/rotational_cipher.py) |
 | 20  |Making the Grade|✔️| Loops (For, While)| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/making-the-grade) |
 | 21  |Resistor Color|✔️| Strings, Numbers, Indexes| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
-| 22  |Tisbury Treasure Hunt|❌| Tuples| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
+| 22  |Tisbury Treasure Hunt|✔️| Tuples| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/tisbury-treasure-hunt/tuples.py) |
 | 23  |Inventory Management|❌| Dicts| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
 | 24  |Mecha Munch Management|❌| Dictionary methods| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
 | 25  |Locomotive Engineer|❌| Unpacking and multiple assignment| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
