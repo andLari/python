@@ -38,4 +38,9 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 22  |Tisbury Treasure Hunt|✔️| Tuples| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/tisbury-treasure-hunt/tuples.py) |
 | 23  |Inventory Management|✔️| Dicts| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/inventory-management/dicts.py) |
 | 24  |Mecha Munch Management|✔️| Dictionary methods| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/mecha-munch-management/dict_methods.py) |
-| 25  |Locomotive Engineer|❌| Unpacking and multiple assignment| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/resistor-color/resistor_color.py) |
+| 25  |Locomotive Engineer|✔️| Unpacking and multiple assignment| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer.py) |
+| 26  |Cater Waiter|❌| Sets| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
+| 27  |Ellen's Alien Game|❌| Classes| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
+| 28  |Plane Tickets|❌| Generators| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
+| 29  |Leap|❌| if, else| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
+| 30  |Triangle|❌| if, else| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
