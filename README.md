@@ -39,7 +39,7 @@ I am using Exercism to improve my Python skills by solving various coding challe
 | 23  |Inventory Management|✔️| Dicts| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/inventory-management/dicts.py) |
 | 24  |Mecha Munch Management|✔️| Dictionary methods| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/mecha-munch-management/dict_methods.py) |
 | 25  |Locomotive Engineer|✔️| Unpacking and multiple assignment| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/locomotive-engineer/locomotive_engineer.py) |
-| 26  |Cater Waiter|❌| Sets| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
+| 26  |Cater Waiter|✔️| Sets| [Solution](https://github.com/andLari/python_exercism/blob/main/solutions/cater-waiter/sets.py) |
 | 27  |Ellen's Alien Game|❌| Classes| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
 | 28  |Plane Tickets|❌| Generators| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
 | 29  |Leap|❌| if, else| [Solution](https://github.com/andLari/python_exercism/tree/main/solutions/locomotive-engineer) |
